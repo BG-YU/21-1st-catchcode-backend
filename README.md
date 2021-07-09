@@ -12,7 +12,9 @@
 - 개발자 : 유병건
 
 ## 구현 기능
-- order app
+- orders app
+  - OrdersPayment
+  - OrdersCart
 - products app
   - ProductListInfo 클래스 
 ### 적용 기술
