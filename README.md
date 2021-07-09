@@ -11,8 +11,8 @@
 - 개발기간 : 2021/6/7 ~ 2021/6/18
 - 개발자 : 유병건
 
-## 적용 기술 및 구현 기능
-
+## 구현 기능
+- order app
 ### 적용 기술
  - Python, Django web framework, Bcrypt, JWT, MySQL, RESTful API
  - AWS(EC2)를 활용한 배포
