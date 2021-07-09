@@ -13,11 +13,13 @@
 
 ## 구현 기능
 - order app
+- products app
+  - ProductListInfo 클래스 
 ### 적용 기술
  - Python, Django web framework, Bcrypt, JWT, MySQL, RESTful API
  - AWS(EC2)를 활용한 배포
 
-### 구현 기능
+### 기능
 #### 장바구니(orders)
  - 장바구니 조회
  - 장바구니 삭제
