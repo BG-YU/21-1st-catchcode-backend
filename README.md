@@ -7,21 +7,22 @@
 - 개발은 초기 세팅부터 전부 직접 구현했으며, 아래 데모 영상에서 보이는 부분은 모두 백앤드와 연결하여 실제 사용할 수 있는 서비스 수준으로 개발한 것입니다.
 
 ### 개발 인원 및 기간
-
 - 개발기간 : 2021/6/7 ~ 2021/6/18
 - 개발자 : 유병건 외 2명
 
-## 구현 기능
+## 내가 작성한 기능
 - orders app
-  - OrdersPayment
-  - OrdersCart
+  - OrdersPayment 클래스
+  - OrdersCart 클래스
+
 - products app
   - ProductListInfo 클래스 
-### 적용 기술
+
+## 적용 기술
  - Python, Django web framework, Bcrypt, JWT, MySQL, RESTful API
  - AWS(EC2)를 활용한 배포
 
-### 기능
+## 사이트 기능
 #### 장바구니(orders)
  - 장바구니 조회
  - 장바구니 삭제
